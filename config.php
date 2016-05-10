@@ -1,2 +1,3 @@
 <?php
-define('BOT_TOKEN','توکن');
+define('BOT_TOKEN','توکن'); 
+#توکن خود را قرار دهید
